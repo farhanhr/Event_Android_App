@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Dicoding Event Subs</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="event_title">DevCoach 151 : Front End | Hidup Lebih Simpel dengan Axios</string>
+    <string name="welcome_page">Welcome to Dicoding Events, Take a look to our Events</string>
+    <string name="upcoming_home">Upcoming Events</string>
+    <string name="finished_home">Finished Events</string>
+    <string name="owner_event">owner</string>
+    <string name="quota_event">Sisa Quota: %d</string>
+    <string name="begin_time_event">Begin Time</string>
+    <string name="description">Description</string>
+    <string name="register">Register</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

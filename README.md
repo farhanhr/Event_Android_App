@@ -1,4 +1,4 @@
-# Cancer Classification APP
+# Cancer Classification App
 
 <img src="https://github.com/user-attachments/assets/fbe28b85-df82-421b-9564-09e01f884d16" alt="home_img" height="300"/>
 

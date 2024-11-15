@@ -1,9 +1,9 @@
 #Cancer Classification APP
 
-<img src="https://github.com/user-attachments/assets/fbe28b85-df82-421b-9564-09e01f884d16" alt="home_img" height="150"/>
+<img src="https://github.com/user-attachments/assets/fbe28b85-df82-421b-9564-09e01f884d16" alt="home_img" height="300"/>
 
 ##Analyze your image
-<img src="https://github.com/user-attachments/assets/b3338e69-d6b7-4da4-ab15-509f90fa0094" alt="result_img" height="150"/>
+<img src="https://github.com/user-attachments/assets/b3338e69-d6b7-4da4-ab15-509f90fa0094" alt="result_img" height="300"/>
 
 ##Save History
 ![IMG-20241115-WA0006](https://github.com/user-attachments/assets/42c1b9f0-2ec7-4c36-adff-fb7e11989efe)
